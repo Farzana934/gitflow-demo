@@ -1,3 +1,4 @@
 Initial Project
 Development started
 Login feature added
+Release 0.1 fixes
